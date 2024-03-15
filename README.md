@@ -1,4 +1,4 @@
-# CE-Roblox-Unofficial-
+# CE-Roblox-Unofficial- (UNFINISHED)
 This is my first Roblox script it is a "Cheat Engine" like script having features cheat Engine has.
 # EXECUTER:
 I would use the [Codex executer](https://codex.lol) by Furky because it is one of the few working Roblox executers as of Byfron and I trust Furky as he made a executer I used to use that was called Furk Ultra but I prefer Codex as it is a good executer with cool features like a mobile friendly UI, console log, script search, etc you can see it [here](https://www.youtube.com/watch?v=v_wiLO_XLNs) please note that he does not know me I am just supporting his channel because he has a good up to date executer and I also trust him but you should still give him a subscribe but Furky isn't the only person who made Codex he got helped by other people so join his [Discord](https://dicord.gg/robloxexploits) for info about those people and for updates about the executer.
